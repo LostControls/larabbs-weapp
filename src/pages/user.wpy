@@ -1,7 +1,9 @@
+<style>
+</style>
 <template>
-<view class="container">
-  首页话题列表
-</view>
+  <view class="container">
+    我的页面
+  </view>
 </template>
 
 <script>
